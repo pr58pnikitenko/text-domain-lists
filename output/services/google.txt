@@ -5,8 +5,6 @@
 2mdn-cn.net
 2mdn.net
 466453.com
-^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 abc.xyz
 adgoogle.net
 admeld.com
