@@ -15,6 +15,7 @@ AWG Domain List Builder — fast edition
 import logging
 import concurrent.futures
 from pathlib import Path
+import re
 
 import requests
 import yaml
@@ -59,6 +60,9 @@ BLOCKED_TXT_ROUTING: dict[str, str | None] = {
 
 # Параллелизм: сколько файлов качать одновременно внутри одного релиза
 DOWNLOAD_WORKERS = 8
+
+# Символы, характерные для regex — не могут быть в реальном домене
+_RE_CHARS = re.compile(r'[\^\$\[\]\(\)\+\*\?\{\}\\|]')
 
 session = requests.Session()
 session.headers["User-Agent"] = "awg-domain-builder/1.0"
@@ -246,13 +250,31 @@ def write_output(path: Path, domains: list[str], ips: list[str] | None = None) -
     extra = f" + {len(ips)} IPs" if ips else ""
     log.info("  ✓ %-55s %d domains%s", str(path.relative_to(BASE)), len(domains), extra)
 
-
 def parse_txt_domains(content: bytes) -> list[str]:
-    return [
-        ln for line in content.decode("utf-8", errors="ignore").splitlines()
-        if (ln := line.strip()) and not ln.startswith("#")
-    ]
+    result = []
+    for line in content.decode("utf-8", errors="ignore").splitlines():
+        ln = line.strip()
+        if not ln or ln.startswith("#"):
+            continue
 
+        # Убираем префиксы: domain:, full:, regexp: и т.д.
+        if ":" in ln:
+            ln = ln.split(":", 1)[1]
+
+        # Убираем суффиксы-теги: :@ads, :@cn и т.д.
+        if ":@" in ln:
+            ln = ln.split(":@", 1)[0]
+
+        ln = ln.strip()
+
+        # Пропускаем regex-паттерны
+        if _RE_CHARS.search(ln):
+            continue
+
+        if ln:
+            result.append(ln)
+
+    return result
 
 def merge_geosite(
     base: dict[str, list[str]],
