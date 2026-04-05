@@ -1,0 +1,57 @@
+# Дополнительные домены для ru-only списка
+# (не входят в runetfreedom, но недоступны из-за рубежа или нужны для маршрутизации через RU)
+
+# ── Стриминг ──────────────────────────────────────────────────────────────────
+max.ru
+okko.tv
+more.tv
+premier.one
+wink.ru
+ivi.ru
+start.ru
+kinopoisk.ru
+rutube.ru
+vk.com
+vk.ru
+vkontakte.ru
+ok.ru
+odnoklassniki.ru
+mail.ru
+my.mail.ru
+cloud.mail.ru
+maps.mail.ru
+
+# ── Банки и финансы ───────────────────────────────────────────────────────────
+sberbank.ru
+sbbol.ru
+sber.ru
+tinkoff.ru
+alfabank.ru
+vtb.ru
+gazprombank.ru
+raiffeisen.ru
+ozon.ru
+wildberries.ru
+avito.ru
+cdek.ru
+
+# ── Гос. порталы ─────────────────────────────────────────────────────────────
+gosuslugi.ru
+mos.ru
+nalog.gov.ru
+pfr.gov.ru
+ФСС.рф
+мвд.рф
+
+# ── Поисковики и новости ──────────────────────────────────────────────────────
+yandex.ru
+yandex.net
+yandex.com.tr
+ya.ru
+zen.yandex.ru
+dzen.ru
+rambler.ru
+rbc.ru
+kommersant.ru
+ria.ru
+tass.ru

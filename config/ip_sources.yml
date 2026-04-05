@@ -1,0 +1,19 @@
+# IP-источники для тегов, у которых есть официальные диапазоны
+# Ключ = slug тега из geosite.dat (lowercase)
+#
+# Форматы:
+#   tag: google          → встроенный фетчер (google | telegram)
+#   tag: [google, ...]   → несколько источников
+#   tag:
+#     url: https://...   → произвольный URL (plain text, один CIDR на строку)
+
+# Официальные диапазоны Google (покрывают и YouTube CDN)
+google: google
+youtube: google
+
+# Официальный CIDR Telegram
+telegram: telegram
+
+# Пример произвольного URL:
+# myservice:
+#   url: https://example.com/ips.txt

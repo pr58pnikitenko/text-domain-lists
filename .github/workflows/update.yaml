@@ -1,0 +1,43 @@
+name: Update Domain Lists
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # каждые 6 часов: 00:00, 06:00, 12:00, 18:00 UTC
+  workflow_dispatch:          # ручной запуск из UI
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Build lists
+        run: python scripts/build.py
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --staged --quiet; then
+            echo "✓ No changes — skip commit"
+          else
+            COUNT=$(git diff --staged --numstat | wc -l)
+            git commit -m "chore: update lists (${COUNT} files) — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

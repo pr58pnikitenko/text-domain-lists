@@ -1,0 +1,80 @@
+# Ручные дополнения к тегам из geosite.dat
+# Ключ = slug тега (lowercase), значение = список доменов
+#
+# Используй когда домен не попал в runetfreedom, но нужен для конкретного сервиса.
+
+youtube:
+  - youtu.be
+  - ytimg.com
+  - yt3.ggpht.com
+  - googlevideo.com
+  - youtube-nocookie.com
+
+google:
+  - googleapis.com
+  - gstatic.com
+  - googleusercontent.com
+  - googletagmanager.com
+  - ggpht.com
+  - google.ru
+
+twitter:
+  - x.com
+  - twimg.com
+  - t.co
+
+telegram:
+  - t.me
+  - telegra.ph
+  - tg.dev
+  - telesco.pe
+  - fragment.com
+
+tiktok:
+  - tiktokcdn.com
+  - muscdn.com
+  - tiktokv.com
+  - ibytedtos.com
+
+instagram:
+  - cdninstagram.com
+  - ig.me
+
+facebook:
+  - fb.com
+  - fb.me
+  - messenger.com
+  - fbcdn.net
+
+netflix:
+  - nflximg.net
+  - nflxvideo.net
+  - nflxso.net
+  - nflxext.com
+
+spotify:
+  - scdn.co
+  - byspotify.com
+  - pscdn.co
+
+discord:
+  - discordapp.com
+  - discordapp.net
+  - discord.media
+  - discord.gg
+
+openai:
+  - oaistatic.com
+  - oaiusercontent.com
+  - chatgpt.com
+
+github:
+  - githubassets.com
+  - githubusercontent.com
+  - github.io
+  - ghcr.io
+
+reddit:
+  - redd.it
+  - redditmedia.com
+  - redditstatic.com
