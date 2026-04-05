@@ -7,6 +7,8 @@ REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 LOG_FILE="$REPO_DIR/update.log"
 VENV="$REPO_DIR/venv"
 MAX_LOG_LINES=1000
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
 
 # Ротация лога (не даём ему расти бесконечно)
 if [[ -f "$LOG_FILE" ]]; then
