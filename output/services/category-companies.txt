@@ -175,6 +175,8 @@ addthis.com
 addthiscdn.com
 addthisedge.com
 adfox.ru
+adfox.yandex.ru
+adfstat.yandex.ru
 adgoogle.net
 adinst.com
 admeld.com
@@ -232,7 +234,11 @@ adobetechcommdemo.com
 adobexdplatform.com
 ads-api.duolingo.com
 ads.yahoo.com
+ads.yandex
+ads.yandex.com
+ads.yandex.ru
 ads.youtube.com
+adsdk.yandex.ru
 adsense.com
 adsensecustomsearchads.com
 adsenseformobileapps.com
@@ -245,6 +251,8 @@ adskengpp.net
 adskengpr.net
 adtcc.com
 adtrafficquality.google
+adv.yandex.com
+adv.yandex.ru
 advancediddetection.com
 advertisercommunity.com
 advertiserscommunity.com
@@ -453,6 +461,7 @@ amazonwebservices.com.cn
 amazonworkdocs.cn
 amazonworkdocs.com
 amazonworkdocs.com.cn
+amc.yandex.ru
 amd.com
 amd.com.cn
 amdfanstore.com
@@ -481,9 +490,11 @@ amzndns.com
 amzndns.net
 amzndns.org
 amznl.com
+an.yandex.ru
 analytics-alv.google.com
 analytics.facebook.com
 analytics.google.com
+analytics.mobile.yandex.net
 analytics.vpc.duolingo.com
 android.com
 android.googlesource.com
@@ -510,6 +521,7 @@ api-adservices.apple.com
 api-edge.apps.apple.com
 api-extractor.com
 api.ai
+api.appmetrica.yandex.ru
 api.viu.now.com
 apigee.com
 apihub-internal.cn
@@ -1546,6 +1558,7 @@ begin-trade.com
 behance.net
 behindthescreenz.com
 bellsouth.net
+berizaryad.ru
 berkanawireless.com
 best4bim.com
 bestbeats4u.com
@@ -1715,8 +1728,10 @@ broadcom.com
 brocaproject.com
 bronto.com
 brotli.org
+browser-updater.yandex.net
 browser.events.data.msn.cn
 browser.events.data.msn.com
+bs.yandex.ru
 buck.build
 buckbuild.com
 budatt.com
@@ -2058,6 +2073,9 @@ cl4.apple.com
 cl5-cdn.origin-apple.com.akadns.net
 cl5.apple.com
 clarity.ms
+clck.ru
+clck.yandex.net
+clck.yandex.ru
 clco.cc
 clearlinux.org
 click-sec.com
@@ -2102,6 +2120,7 @@ cloudvolumes.com
 cloupia.com
 cloupia.net
 clova.ai
+clstorage.net
 clusterconnection.com
 cma.itunes.apple.com
 cmhalq.com
@@ -2174,6 +2193,8 @@ cosmosdb.info
 cosmosdb.net
 cotolia.com
 cotweet.com
+counter.yandex.net
+counter.yandex.ru
 courier-push-apple.com.akadns.net
 covid19-rx.org
 covid19rx.org
@@ -2752,6 +2773,7 @@ education-cadcam.com
 efproject.net
 einstein.com
 ekiten.jp
+elama.ru
 elasticbeanstalk.com
 elderscrolls.com
 emac.co.in
@@ -4191,6 +4213,7 @@ inappcheck.itunes.apple.com
 incentivetravelgifts.com
 indiaipad.com
 infoq.jp
+informer.yandex.ru
 infraworks.com
 ingads.com
 ingest.apple-studies.com
@@ -5053,6 +5076,8 @@ mayauser.net
 mayavisualization.com
 mbeats-tech.com
 mbheadphone.com
+mc.yandex.com
+mc.yandex.ru
 mcchcdn.com
 mcisco.com
 mcrouter.net
@@ -5100,7 +5125,9 @@ meta.com
 metabora.io
 metacloud.com
 metamind.io
+meteum.ai
 metrics.duolingo.com
+metrika.yandex.ru
 mfg-inspector.com
 mgmt-azure-api.cn
 michill.jp
@@ -5843,9 +5870,11 @@ pillbeatsblackfridaysale.com
 pintool.com
 pittpatt.com
 pivotalinitiative.com
+pix.yandex.ru
 pixapp.net
 pixate.com
 pixel.facebook.com
+pixel.yandex.net
 pixlr-o-matic.com
 pixlromatic.com
 pixtronix.com
@@ -6093,6 +6122,9 @@ renovacionoffice.com
 renovacionxboxlive.com
 renshu.com
 repo.new
+report-partners.appmetrica.yandex.net
+report.ap.yandex-net.ru
+report.appmetrica.yandex.net
 repsneakermall.com
 repswing.com
 res-1.cdn.office.net
@@ -6349,6 +6381,7 @@ sharepoint.com
 sharepointonline.com
 shazam-insights.cdn-apple.com
 shazam.com
+shedevrum.ai
 sheets.new
 shell.cdn.office.net
 shisho.dev
@@ -6554,6 +6587,7 @@ sonyprotechnosupport.co.jp
 sonystoragemedia.co.jp
 sonytc.co.jp
 soso7778.com
+sourcecraft.dev
 sovec.net
 sp.itunes.apple.com
 spacemail.com
@@ -6593,6 +6627,7 @@ staging.databe.floonet.goog
 starship-ent.com
 start.com
 static-cisco.com
+static-storage.net
 static-verizon.com
 static.gc.apple.com
 static.siege-amazon.com
@@ -7408,7 +7443,9 @@ xscale.com
 xtracloud.cn
 xtracloud.net
 xuite.net
+ya.cc
 ya.ru
+yabs.yandex.ru
 yads.tech
 yahoo-news.com.hk
 yahoo.ae
@@ -7572,9 +7609,11 @@ yamaxun.com
 yammer.com
 yandex-bank.net
 yandex-images.clstorage.net
+yandex-metrica.ru
 yandex-pogoda.static-storage.net
 yandex-team.ru
 yandex.aero
+yandex.asia
 yandex.az
 yandex.by
 yandex.cloud
@@ -7596,6 +7635,7 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
+yandex.mobi
 yandex.net
 yandex.org
 yandex.pl
@@ -7610,12 +7650,14 @@ yandex.uz
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
+yandexlyceum.ru
 yandexmetrica.com
 yandexwebcache.net
 yandexwebcache.org
 yastat.net
 yastatic-net.ru
 yastatic.net
+yccdn.ru
 yho.com
 yimg.com
 yimg.jp
