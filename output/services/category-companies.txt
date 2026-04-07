@@ -4811,7 +4811,6 @@ kindleoasis.us
 kindleoasisnews.com
 kindleproject.com
 kingstagram.com
-kinopoisk-ru.clstorage.net
 kinopoisk.ru
 kireipass.jp
 klik.me
@@ -7608,9 +7607,7 @@ yamaxun.cn
 yamaxun.com
 yammer.com
 yandex-bank.net
-yandex-images.clstorage.net
 yandex-metrica.ru
-yandex-pogoda.static-storage.net
 yandex-team.ru
 yandex.aero
 yandex.asia

@@ -23,7 +23,6 @@ counter.yandex.net
 counter.yandex.ru
 elama.ru
 informer.yandex.ru
-kinopoisk-ru.clstorage.net
 kinopoisk.ru
 mc.yandex.com
 mc.yandex.ru
@@ -48,9 +47,7 @@ ya.ru
 yabs.yandex.ru
 yads.tech
 yandex-bank.net
-yandex-images.clstorage.net
 yandex-metrica.ru
-yandex-pogoda.static-storage.net
 yandex-team.ru
 yandex.aero
 yandex.asia

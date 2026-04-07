@@ -63,7 +63,6 @@ gazprombank.com
 gazprombank.investments
 giga.chat
 informer.yandex.ru
-kinopoisk-ru.clstorage.net
 kinorium.com
 lenta.com
 lenta.tech
@@ -181,9 +180,7 @@ ya.cc
 yabs.yandex.ru
 yads.tech
 yandex-bank.net
-yandex-images.clstorage.net
 yandex-metrica.ru
-yandex-pogoda.static-storage.net
 yandex.aero
 yandex.asia
 yandex.az

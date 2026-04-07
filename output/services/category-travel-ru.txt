@@ -11,12 +11,10 @@ mos.transport.vtb.ru
 mosmetro.ru
 mosmetro.tech
 ostrovok.ru
-otello.ru
 podorozhnik.spb.ru
 rrtp.ru
 rzd-bonus.ru
 rzd.ru
-sbertroika.ru
 taxi.yandex.ru
 transport.mos.ru
 tutu.ru

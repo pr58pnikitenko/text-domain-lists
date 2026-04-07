@@ -672,7 +672,6 @@ addthiscdn.com
 addthisedge.com
 addtoany.com
 adelaidenow.com.au
-adfox.ru
 adgoogle.net
 adguard-dns.com
 adguard-dns.io
@@ -771,7 +770,6 @@ adidastabletennis.com
 adidasusnews.com
 adinst.com
 admeld.com
-admetrica.ru
 adobe-aemassets-value.com
 adobe-audience-finder.com
 adobe-dns-1.adobe.com
@@ -11807,7 +11805,6 @@ kinklive.com
 kinkoid.com
 kinkyfamily.com
 kinkypeepz.com
-kinopoisk-ru.clstorage.net
 kinopoisk.ru
 kinorium.com
 kir2kos.net
@@ -20823,8 +20820,6 @@ webrtc.org
 webtoons.com
 webtoonscorp.com
 webtype.com
-webvisor.com
-webvisor.org
 weekly-economist.com
 weeklytimesnow.com.au
 weimi180.com
@@ -21737,7 +21732,6 @@ ya.cc
 ya.ru
 yaddal.tv
 yadori.club
-yads.tech
 yaeby.info
 yaeby.pro
 yahoo-news.com.hk
@@ -21904,8 +21898,6 @@ yammer.com
 yamoon.club
 yande.re
 yandex-bank.net
-yandex-images.clstorage.net
-yandex-pogoda.static-storage.net
 yandex-team.ru
 yandex.aero
 yandex.asia
@@ -21946,7 +21938,6 @@ yandexadexchange.net
 yandexcloud.net
 yandexcom.net
 yandexlyceum.ru
-yandexmetrica.com
 yandexwebcache.net
 yandexwebcache.org
 yangzhi.app
