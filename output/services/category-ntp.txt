@@ -25,6 +25,7 @@ ntp.ripe.net
 ntp.se
 ntp.t.ring.gr.jp
 ntp.tencent.com
+ntp.time.nl
 ntp.tohoku.ac.jp
 ntp.tut.ac.jp
 ntp.ubuntu.com
@@ -37,6 +38,7 @@ ntp1.ntp-servers.net
 ntp1.plala.or.jp
 ntp1.ring.gr.jp
 ntp1.tencent.com
+ntp1.time.nl
 ntp1.tohoku.ac.jp
 ntp1.v6.mfeed.ad.jp
 ntp1.wakwak.com
@@ -46,6 +48,7 @@ ntp2.ntp-servers.net
 ntp2.plala.or.jp
 ntp2.ring.gr.jp
 ntp2.tencent.com
+ntp2.time.nl
 ntp2.tohoku.ac.jp
 ntp2.v6.mfeed.ad.jp
 ntp2.wakwak.com
@@ -64,6 +67,8 @@ ntp6.aliyun.com
 ntp6.ntp-servers.net
 ntp7.aliyun.com
 ntp7.ntp-servers.net
+ntppool1.time.nl
+ntppool2.time.nl
 pool.ntp.org
 s2csntp.miz.nao.ac.jp
 time-a-b.nist.gov

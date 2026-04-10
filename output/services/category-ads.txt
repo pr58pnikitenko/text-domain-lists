@@ -98,6 +98,7 @@ ads.yahoo.com
 ads.yandex
 ads.yandex.com
 ads.yandex.ru
+ads.yango.com
 ads.youtube.com
 ads3-normal-hl.zijieapi.com
 ads3-normal.zijieapi.com
@@ -175,7 +176,6 @@ analytics.tiktok.com
 analytics.umetrip.com
 analytics.vpc.duolingo.com
 api-adservices.apple.com
-api.appmetrica.yandex.ru
 apilog-web.acfun.cn
 app-analytics-services-att.com
 app-analytics-services.com
@@ -184,6 +184,10 @@ app-measurement.com
 apple.www.letv.com
 applovin.com
 applvn.com
+appmetrica.yandex.com
+appmetrica.yandex.net
+appmetrica.yandex.ru
+appmetrica.yango.com
 ar.umeng.com
 ark.letv.com
 aspect-upush.umeng.com
@@ -231,8 +235,10 @@ cfts1tifqr.com
 china-caa.org
 chinaciaf.org
 clarity.ms
+clck.yandex.com
 clck.yandex.net
 clck.yandex.ru
+clck.yango.com
 click.ali213.net
 click.gamersky.com
 click.hunantv.com
@@ -434,7 +440,9 @@ marketing.alibaba.com
 marketingplatform.google.com
 mbdlog.iqiyi.com
 mc.yandex.com
+mc.yandex.net
 mc.yandex.ru
+mc.yango.com
 mcs.snssdk.com
 mdt.qq.com
 mediav.com
@@ -541,9 +549,7 @@ qwapi.com
 reachmax.cn
 realsrv.com
 reke.at.sohu.com
-report-partners.appmetrica.yandex.net
 report.ap.yandex-net.ru
-report.appmetrica.yandex.net
 report.qqweb.qq.com
 report.tencentmusic.com
 res.hunantv.com
@@ -662,6 +668,7 @@ yabs.yandex.ru
 yads.tech
 yandex-metrica.ru
 yandexmetrica.com
+yango-ads.com
 yektanet.com
 yfanads.cn
 yfanads.com

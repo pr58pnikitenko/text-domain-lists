@@ -2,7 +2,6 @@ ada.openbld.net
 adblock.dns.mullvad.net
 all.dns.mullvad.net
 antivirus.bebasid.com
-anycast.dns.nextdns.io
 au-syd.doh.sb
 base.dns.mullvad.net
 basic.rethinkdns.com
@@ -33,7 +32,6 @@ dns.google
 dns.jupitrdns.com
 dns.marbledfennec.net
 dns.mullvad.net
-dns.nextdns.io
 dns.oszx.co
 dns.pub
 dns.pumplex.com
@@ -56,16 +54,13 @@ doh.applied-privacy.net
 doh.cleanbrowsing.org
 doh.dns.apple.com
 doh.dns.sb
-doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.la.ahadns.net
 doh.libredns.gr
 doh.nl.ahadns.net
 doh.onedns.net
-doh.opendns.com
 doh.pub
 doh.qis.io
-doh.sandbox.opendns.com
 doh.sb
 doh.tiar.app
 doh.tiarap.org
@@ -73,7 +68,6 @@ ee-tll.doh.sb
 extended.dns.mullvad.net
 family.adguard-dns.com
 family.canadianshield.cira.ca
-family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dot.dns.yandex.net
 family.rabbitdns.org
@@ -91,10 +85,12 @@ jp.tiarap.org
 kaitain.restena.lu
 kids.ns.nwps.fi
 kr-sel.doh.sb
+nextdns.io
 nl-ams.doh.sb
 noads.joindns4.eu
 odvr.nic.cz
 one.one.one.one
+opendns.com
 ordns.he.net
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -109,7 +105,6 @@ ru-mow.doh.sb
 rx.techomespace.com
 safe.dot.dns.yandex.net
 secondary.dns.seia.io
-security.cloudflare-dns.com
 security.rabbitdns.org
 sg-sin.doh.sb
 sm2.doh.pub

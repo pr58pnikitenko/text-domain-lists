@@ -237,6 +237,7 @@ ads.yahoo.com
 ads.yandex
 ads.yandex.com
 ads.yandex.ru
+ads.yango.com
 ads.youtube.com
 adsdk.yandex.ru
 adsense.com
@@ -521,7 +522,6 @@ api-adservices.apple.com
 api-edge.apps.apple.com
 api-extractor.com
 api.ai
-api.appmetrica.yandex.ru
 api.viu.now.com
 apigee.com
 apihub-internal.cn
@@ -893,6 +893,10 @@ applicationinsights.net
 applle.com
 applw.com
 appmediagroup.com
+appmetrica.yandex.com
+appmetrica.yandex.net
+appmetrica.yandex.ru
+appmetrica.yango.com
 apps.mzstatic.com
 apps5.oingo.com
 appserviceenvironment.cn
@@ -1780,6 +1784,7 @@ c-msedge.net
 c.admob.com
 c.android.clients.google.com
 c.pki.goog
+cabconnect.org
 cabletvdirectv.com
 cache-management-prod.google.com
 cache.pack.google.com
@@ -2074,8 +2079,10 @@ cl5-cdn.origin-apple.com.akadns.net
 cl5.apple.com
 clarity.ms
 clck.ru
+clck.yandex.com
 clck.yandex.net
 clck.yandex.ru
+clck.yango.com
 clco.cc
 clearlinux.org
 click-sec.com
@@ -2707,6 +2714,7 @@ drebyby.com
 dremonsterbeatsoutlets.com
 dreprobeats.com
 dreprofy.com
+driveawaytaxi.org
 drnastran.com
 drweb-av.de
 drweb-av.es
@@ -3467,6 +3475,7 @@ gobuyonlinestore.net
 godaddy.com
 godoc.org
 gofile.me
+gogettaxi.org
 gogle.com
 gogole.com
 golang.com
@@ -3749,6 +3758,7 @@ gopivotal.net
 gordonmoore.com
 gostorego.com
 gotcosmos.com
+goup.ai
 governmentengineer.com
 govforce.com
 gpsonextra.net
@@ -3827,6 +3837,7 @@ hakaru.ai
 haplorrhini.com
 happysrv.de
 hashicorp.com
+hayya.ae
 hddirectv.com
 hdinsightservices.cn
 hdrplusdata.org
@@ -5076,7 +5087,9 @@ mayavisualization.com
 mbeats-tech.com
 mbheadphone.com
 mc.yandex.com
+mc.yandex.net
 mc.yandex.ru
+mc.yango.com
 mcchcdn.com
 mcisco.com
 mcrouter.net
@@ -5445,6 +5458,7 @@ mxroute.com
 mxroutedocs.com
 mxroutehelp.com
 mxrouting.net
+my-manager-account.com
 my1stflame.com
 myapp.itunes.apple.com
 myappleid.com
@@ -6121,9 +6135,7 @@ renovacionoffice.com
 renovacionxboxlive.com
 renshu.com
 repo.new
-report-partners.appmetrica.yandex.net
 report.ap.yandex-net.ru
-report.appmetrica.yandex.net
 repsneakermall.com
 repswing.com
 res-1.cdn.office.net
@@ -6684,6 +6696,7 @@ superearsenjoy.com
 supersrv.de
 supplybestjerseys.com
 support-china.apple-support.akadns.net
+support-uber.com
 support.apple.com
 supportassist.dell.com
 supportfacebook.com
@@ -6739,6 +6752,9 @@ tamtam.chat
 tandberg-china.com
 tandberg.com
 taxel.media
+taxiaid.org
+taxiguru.org
+taxitax.org
 teamviewer.cn
 teamviewer.com
 teamviewer.com.cdn.cloudflare.net
@@ -7647,10 +7663,25 @@ yandex.uz
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
+yandexgo.com
 yandexlyceum.ru
 yandexmetrica.com
 yandexwebcache.net
 yandexwebcache.org
+yango-ads.com
+yango-b2b.com
+yango-team.com
+yango-tech.com
+yango.africa
+yango.ao
+yango.bh
+yango.co.il
+yango.com
+yango.fi
+yango.qa
+yango.taxi
+yango.tech
+yangofellowship.com
 yastat.net
 yastatic-net.ru
 yastatic.net

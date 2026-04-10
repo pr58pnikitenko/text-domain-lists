@@ -263,6 +263,7 @@
 91.com
 917.com
 91danji.com
+91shenfan.com
 91yunxiao.com
 95311.com
 95504test.com
@@ -379,6 +380,7 @@ antpcdn.com
 antutu.com
 antutu.net
 anxia.com
+anytocopy.com
 anywlan.com
 aotrip.net
 aoyou.com
@@ -418,6 +420,7 @@ aws-icp-domain-manager.cn
 awsapps.cn
 awsapps.com.cn
 awsstatic.cn
+awstme.top
 b3log.org
 b3logfile.com
 babytree.com
@@ -540,6 +543,7 @@ blurdev.com
 blyun.com
 bobbns.com
 bobo.com
+bochaai.com
 boe.com
 bohejiasuqi.com
 bojianger.com
@@ -852,6 +856,7 @@ danji100.com
 danji6.com
 danjuanfunds.com
 daocloud.io
+daocloud.vip
 daojia.com
 daovoice.io
 dataeye.com
@@ -1226,6 +1231,7 @@ gamebonfire.com
 gameitop.com
 gameloop.com
 gamemei.com
+gamepp.com
 gameres.com
 gamersky.com
 gamewower.com
@@ -1406,6 +1412,7 @@ herostart.com
 heweather.net
 hexun.com
 heytea.com
+hezuvip.com
 hf-aw.com
 hftfund.com
 hiaiabc.com
@@ -1779,6 +1786,7 @@ jxpp.com
 jyeoo.com
 jyeoo.net
 jyimg.com
+jzagile.com
 jzfz.net
 jzsec.com
 jztvnews.com
@@ -1973,6 +1981,7 @@ leturich.org
 letv.com
 letvcdn.com
 letvimg.com
+lg3000.top
 lgstatic.com
 lhzq.com
 lianjia.com
@@ -2324,6 +2333,7 @@ oray.net
 orayer.com
 orayimg.com
 orient-fund.com
+osbdf.com
 oschina.net
 oshwhub.com
 ottcn.com
@@ -2553,6 +2563,7 @@ scdng.com
 schoopia.com
 scm121.com
 scoregg.com
+scratch5.com
 sczsxx.com
 sdgdwljt.com
 sdo.com
@@ -2680,6 +2691,7 @@ soso.com
 sososnap.com
 sou.com
 soufunimg.com
+soulteary.com
 souqian.com
 southcn.com
 southmoney.com
@@ -2821,6 +2833,7 @@ tiebaimg.com
 tietuku.com
 tiexue.net
 tikv.org
+timbrd.com
 time.amazonaws.cn
 time.izatcloud.net
 time.xtracloud.net
@@ -2853,6 +2866,7 @@ tongyi.aliyun.com
 tongyi.com
 tools.team
 topthink.com
+topwd.top
 touqikan.com
 touying.com
 touzid.com
@@ -3038,6 +3052,7 @@ wfdata.club
 whccb.com
 whlovehome.com
 wicresoft.com
+wildfirechat.net
 win007.com
 win7china.com
 win8.net
@@ -3100,6 +3115,7 @@ wuming.com
 wuuxiang.com
 wuximediaglobal.com
 wuyou.net
+wxdw.top
 wxsbank.com
 wxzq.com
 wywyx.com
@@ -3119,6 +3135,7 @@ xedge.cc
 xesimg.com
 xf-fund.com
 xfdown.com
+xgzb.top
 xhby.net
 xhlsgs.com
 xiachufang.com
@@ -3363,6 +3380,7 @@ yximgs.com
 yxwsgame.com
 yy.com
 yyds.co
+yyshub.top
 yystatic.com
 yytcdn.com
 yzwb.net
@@ -3379,6 +3397,7 @@ zbj.com
 zbjdev.com
 zbjimg.com
 zcjbgame.com
+zctnet.top
 zczj.com
 zdfans.com
 zdmimg.com

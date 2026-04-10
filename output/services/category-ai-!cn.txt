@@ -56,6 +56,9 @@ dola.com
 duck.ai
 elevenlabs.com
 elevenlabs.io
+envato-static.com
+envato.com
+envatousercontent.com
 gateway.ai.cloudflare.com
 geller-pa.googleapis.com
 gemini.google
@@ -118,6 +121,7 @@ robinfrontend-pa.googleapis.com
 servd-anthropic-website.b-cdn.net
 sora.com
 spicywriter.com
+themeforest.net
 trae.ai
 turn.livekit.cloud
 webchannel-alkalimakersuite-pa.clients6.google.com

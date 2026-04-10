@@ -33,6 +33,8 @@ adsh.m.taobao.com
 adslot.uc.cn
 adtrack.quark.cn
 ae-rus.net
+aedns.ru
+aeplatform.ru
 aestatic.net
 ali-health.com
 aliapp.org

@@ -305,6 +305,7 @@
 91.com
 917.com
 91danji.com
+91shenfan.com
 91yunxiao.com
 95306.cn
 95311.com
@@ -438,6 +439,7 @@ antpcdn.com
 antutu.com
 antutu.net
 anxia.com
+anytocopy.com
 anywlan.com
 anzhuo.cn
 ao-x.ac.cn
@@ -488,6 +490,7 @@ aws-icp-domain-manager.cn
 awsapps.cn
 awsapps.com.cn
 awsstatic.cn
+awstme.top
 b3log.org
 b3logfile.com
 babytree.com
@@ -643,6 +646,7 @@ blyun.com
 bmac.com.cn
 bobbns.com
 bobo.com
+bochaai.com
 boe.com
 boe.com.cn
 bohejiasuqi.com
@@ -1075,6 +1079,7 @@ danji100.com
 danji6.com
 danjuanfunds.com
 daocloud.io
+daocloud.vip
 daojia.com
 daovoice.io
 dataeye.com
@@ -1516,6 +1521,7 @@ gamelook.com.cn
 gameloop.com
 gamemei.com
 gamepack.cn
+gamepp.com
 gameres.com
 gamersky.com
 gamewower.com
@@ -1749,6 +1755,7 @@ hexin.cn
 hexin.com.cn
 hexun.com
 heytea.com
+hezuvip.com
 hf-aw.cn
 hf-aw.com
 hffunds.cn
@@ -2213,6 +2220,7 @@ jyeoo.com
 jyeoo.net
 jyimg.com
 jyzq.cn
+jzagile.com
 jzfz.net
 jzsec.com
 jztvnews.com
@@ -2443,6 +2451,7 @@ leturich.org
 letv.com
 letvcdn.com
 letvimg.com
+lg3000.top
 lgstatic.com
 lhzq.com
 lianjia.com
@@ -2871,6 +2880,7 @@ oray.net
 orayer.com
 orayimg.com
 orient-fund.com
+osbdf.com
 oschina.net
 oshwhub.com
 ottcn.com
@@ -2981,6 +2991,7 @@ qbox.me
 qc188.com
 qcc.com
 qcds.com
+qchannel03.cn
 qd-metro.com
 qd.ink
 qd8.com
@@ -3162,6 +3173,7 @@ sciencechina.cn
 scm121.cn
 scm121.com
 scoregg.com
+scratch5.com
 scsentry.cn
 scsjb.cn
 sczsxx.com
@@ -3316,6 +3328,7 @@ sososnap.com
 sou.cn
 sou.com
 soufunimg.com
+soulteary.com
 souqian.com
 southcn.com
 southmoney.com
@@ -3509,6 +3522,7 @@ tietuku.com
 tiexue.net
 tigeek.net.cn
 tikv.org
+timbrd.com
 time.amazonaws.cn
 time.izatcloud.net
 time.xtracloud.net
@@ -3544,6 +3558,7 @@ tongyi.aliyun.com
 tongyi.com
 tools.team
 topthink.com
+topwd.top
 tosot.com.cn
 touqikan.com
 touying.com
@@ -3779,6 +3794,7 @@ wggames.cn
 whccb.com
 whlovehome.com
 wicresoft.com
+wildfirechat.net
 win007.com
 win7china.com
 win8.net
@@ -3858,6 +3874,7 @@ wuming.com
 wuuxiang.com
 wuximediaglobal.com
 wuyou.net
+wxdw.top
 wxsbank.com
 wxzq.com
 wywyx.com
@@ -3882,6 +3899,7 @@ xesimg.com
 xf-fund.com
 xfdown.com
 xfyun.cn
+xgzb.top
 xhby.net
 xhlsgs.com
 xiachufang.com
@@ -4168,6 +4186,7 @@ yximgs.com
 yxwsgame.com
 yy.com
 yyds.co
+yyshub.top
 yystatic.com
 yystv.cn
 yytcdn.com
@@ -4188,6 +4207,7 @@ zbjdev.com
 zbjimg.com
 zcjbgame.com
 zcmbc.com.cn
+zctnet.top
 zczj.com
 zdfans.com
 zdmimg.com
