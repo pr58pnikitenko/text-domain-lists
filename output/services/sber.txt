@@ -13,12 +13,14 @@
 2gis.tj
 2gis.ua
 2gis.uz
+ads.neon.click
 afisha.ru
 bps-sberbank.by
 citydrive.ru
 clickstream.sberbank.ru
 cloud.ru
 cloudru.cn
+eaptechka.online
 eapteka.ru
 error-tracking.megamarket.tech
 giga.chat
@@ -41,6 +43,7 @@ jivosite.ru
 kuper.ru
 megamarket.ru
 megamarket.tech
+neon.click
 okko.sport
 okko.tv
 otello.ru
