@@ -8,6 +8,8 @@ apivoid.com
 bigdatacloud.net
 check-host.net
 checkip.amazonaws.com
+checkip.dyn.com
+checkip.dyndns.org
 checkip.org
 checkip.ru
 country.is

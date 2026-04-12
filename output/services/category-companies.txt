@@ -2788,6 +2788,7 @@ dynamoreach.com
 dzen.ru
 dzeninfra.ru
 e-estate.jp
+e.mindbox.ru
 ea2cn-dev-outlet.dell.com
 ea2cn-prod-outlet.dell.com
 ea2cn-staging-outlet.dell.com
@@ -3349,6 +3350,7 @@ g-tun.com
 g.cn
 g.co
 g.dev
+g.mindbox.ru
 g.page
 g0.gstatic.com
 g1.gstatic.com
@@ -3917,6 +3919,10 @@ hewlettpackard.enterprises
 hey.boo
 heywire.com
 hf-iphone.com
+hh.by
+hh.kz
+hh.ru
+hhcdn.ru
 hhvm.com
 hifacebook.info
 highbolt.net
@@ -6128,6 +6134,7 @@ qwant.it
 qwapi.com
 r.bing.com
 r.cert.corp.google.com
+rabota.by
 radeon.com
 radian6.com
 rapidprototyping-cadcam.com
@@ -6225,6 +6232,7 @@ s-msedge.net
 s-msft.com
 s-msn.com
 s-rewards.hk
+s.mindbox.ru
 s.mzstatic.com
 s00.upd.kaspersky.com
 s01.upd.kaspersky.com
@@ -6442,6 +6450,7 @@ services-exchange.com
 serviceshp.com
 servicetalk.io
 serving-sys.com
+setka.ru
 sf-api-token-service.itunes.apple.com
 sfbassets.com
 sfbassets.net
@@ -6812,6 +6821,7 @@ tail-f.com
 tailf.com
 tailwindtraders.com
 takegoto.com
+talantix.ru
 tamtam.chat
 tandberg-china.com
 tandberg.com
@@ -7947,6 +7957,7 @@ ytimg.com
 yusercontent.com
 z.cn
 z.com
+zarplata.ru
 zdxbeta.net
 zdxcloud.net
 zeibit.ai

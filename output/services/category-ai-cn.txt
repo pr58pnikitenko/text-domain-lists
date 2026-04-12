@@ -7,6 +7,8 @@ botvip.cn
 butterfly-static.cn
 butterflyai.cn
 chatglm.cn
+clawhub-mirror.com
+codebuddy.cn
 coze.cn
 coze.site
 cozebaas.cn
@@ -52,6 +54,7 @@ qwen.ai
 qwenlm.ai
 rwkv.cn
 rwkv.com
+skillhub.cn
 tcwqqdy.guru
 tiangong.cn
 tongyi.aliyun.com
@@ -66,6 +69,7 @@ xinghuo.xfyun.cn
 xingyeai.com
 yiyan.baidu.com
 yoma.cn
+yuanqi.tencent.com
 z.ai
 zhipuai.cn
 zhipucn.com

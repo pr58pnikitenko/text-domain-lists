@@ -14,6 +14,7 @@
 2gis.uz
 4epenaxa.com
 5post.market
+accesspoint.uz
 activate.activation-v2.kaspersky.com
 activation-v2.geo.kaspersky.com
 activation-v2.kaspersky.com
@@ -25,6 +26,7 @@ admetrica.ru
 ads-gate.wildberries.ru
 ads-media.wildberries.ru
 ads.neon.click
+ads.sber.ru
 ads.wildberries.ru
 ads.x5media.ru
 ads.yandex
@@ -42,6 +44,7 @@ advert-api.wildberries.ru
 advert-media-api.wb.ru
 advert-media-api.wildberries.ru
 agency-adv.ozon.ru
+alfabank.oavdo.amc
 alfabank.st
 amc.yandex.ru
 an.yandex.ru
@@ -152,6 +155,7 @@ dodopizza.com
 dodostatic.net
 donationalerts.com
 driveawaytaxi.org
+e.mindbox.ru
 eaptechka.online
 edge.geo.kaspersky.com
 edu.tinkoff.ru
@@ -166,18 +170,22 @@ evrasia.rest
 ewisdom.us.kg
 fix-price.com
 foralice.online
+g.mindbox.ru
 gazprombank.com
 gazprombank.investments
 genetic-technologies.am
 genotek.am
 genotek.health
 gerronfox.com
+getsynapse.io
 giga.chat
 gogettaxi.org
 google-analytics-suite.ozon.ru
 goup.ai
 haicomdc.com
 hayya.ae
+hh.by
+hh.kz
 ideco.dev
 informer.yandex.ru
 jieshang.online
@@ -262,6 +270,8 @@ lenta.tech
 lizageld.de
 loyalnost-adv.ozon.ru
 mail-carrotquest.io
+marketing-info.wildberries.ru
+marketplace-sentry.wb.ru
 mc.yandex.com
 mc.yandex.net
 mc.yandex.ru
@@ -274,6 +284,7 @@ megamarket.tech
 megapolis.llc
 memealerts.com
 meteum.ai
+metrics.21-school.ru
 metrika.yandex.ru
 metro.spb.ru
 mindbox.cloud
@@ -353,6 +364,7 @@ prodcontest.com
 prodvizhenie-adv.ozon.ru
 pushgrow.io
 questions-adv.ozon.ru
+rabota.by
 refresh-bkg.activation-v2.kaspersky.com
 report.ap.yandex-net.ru
 restream-media.net
@@ -363,6 +375,7 @@ rostaxi.org
 ru.com
 ru.net
 rwbautomation.tech
+s.mindbox.ru
 s00.upd.kaspersky.com
 s01.upd.kaspersky.com
 s02.upd.kaspersky.com
@@ -414,6 +427,8 @@ slc.tl
 smartmed.pro
 smotreshka.tv
 sourcecraft.dev
+spasibo.digital
+spasibo.market
 srv-hub.org
 st-ok-pts.cdn-vk.ru
 st-ok.cdn-vk.ru
