@@ -536,10 +536,8 @@ api.carrotquest.io
 api.carrottrack.app
 api.dashly.app
 api.dashlytrack.app
-api.e.mindbox.ru
 api.mindbox.cloud
 api.mindbox.ru
-api.s.mindbox.ru
 api.viu.now.com
 apigee.com
 apihub-internal.cn

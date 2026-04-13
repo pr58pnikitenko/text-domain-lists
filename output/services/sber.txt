@@ -14,7 +14,6 @@
 2gis.ua
 2gis.uz
 accesspoint.uz
-ads.neon.click
 ads.sber.ru
 afisha.ru
 bps-sberbank.by

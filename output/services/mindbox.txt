@@ -1,10 +1,8 @@
 api-js.mindbox.ru
 api-ru.mindbox.cloud
 api-staging.mindbox.ru
-api.e.mindbox.ru
 api.mindbox.cloud
 api.mindbox.ru
-api.s.mindbox.ru
 botmechanic.io
 ceosummit.ru
 e.mindbox.ru

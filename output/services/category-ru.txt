@@ -25,7 +25,6 @@ adfstat.yandex.ru
 admetrica.ru
 ads-gate.wildberries.ru
 ads-media.wildberries.ru
-ads.neon.click
 ads.sber.ru
 ads.wildberries.ru
 ads.x5media.ru
@@ -66,10 +65,8 @@ api.carrotquest.io
 api.carrottrack.app
 api.dashly.app
 api.dashlytrack.app
-api.e.mindbox.ru
 api.mindbox.cloud
 api.mindbox.ru
-api.s.mindbox.ru
 appmetrica.yandex.com
 appmetrica.yandex.net
 appmetrica.yandex.ru
@@ -83,14 +80,12 @@ avs.io
 beeline.tv
 beginners-adv.ozon.ru
 bilet.nspk.ru
-bonbon.am
 boosty.to
 botmechanic.io
 bps-sberbank.by
 browser-updater.yandex.net
 bs.yandex.ru
 cabconnect.org
-caronino.com
 carrot-mail.io
 carrotquest-mail.io
 carrotquest.app
@@ -169,14 +164,12 @@ etna.ai
 evrasia.rest
 ewisdom.us.kg
 fix-price.com
-foralice.online
 g.mindbox.ru
 gazprombank.com
 gazprombank.investments
 genetic-technologies.am
 genotek.am
 genotek.health
-gerronfox.com
 getsynapse.io
 giga.chat
 gogettaxi.org
@@ -188,9 +181,6 @@ hh.by
 hh.kz
 ideco.dev
 informer.yandex.ru
-jieshang.online
-jieshang.shop
-jieshang.store
 jivo.chat
 jivochat.co.in
 jivochat.co.za
@@ -267,7 +257,6 @@ ksn-verdict-geo.kaspersky-labs.com
 ksn-verdict.geoksn.kaspersky.com
 lenta.com
 lenta.tech
-lizageld.de
 loyalnost-adv.ozon.ru
 mail-carrotquest.io
 marketing-info.wildberries.ru
@@ -281,7 +270,6 @@ medsi.com
 medsi.pro
 megafon.com
 megamarket.tech
-megapolis.llc
 memealerts.com
 meteum.ai
 metrics.21-school.ru
@@ -304,9 +292,6 @@ neon.click
 netmonet.co
 new-adv.ozon.ru
 ngenix.net
-nuwjon.online
-nuwjon.shop
-nuwjon.store
 okko.sport
 okko.tv
 okolo.app
@@ -352,7 +337,6 @@ p16.upd.kaspersky.com
 p17.upd.kaspersky.com
 p18.upd.kaspersky.com
 p19.upd.kaspersky.com
-papertole.by
 paywb.com
 perekrestok.com
 pix.yandex.ru
@@ -451,7 +435,6 @@ tdev.by
 tehnodom.com
 telega.info
 telega.me
-tigrenok.toys
 tinkoff-group.com
 tinkoff.ai
 tinkoffmobile.com
