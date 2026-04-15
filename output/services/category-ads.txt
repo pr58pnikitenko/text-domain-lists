@@ -57,6 +57,7 @@ adashxgc.ut.taobao.com
 adbehavior.ximalaya.com
 adbkwai.com
 adblogger.vk.com
+adblogger.vk.ru
 adbox.sina.com.cn
 adbutter.net
 adc.hpplay.cn
@@ -163,6 +164,8 @@ adv.ozon.ru
 adv.rustore.ru
 adv.sec.intl.miui.com
 adv.sec.miui.com
+adv.vk.com
+adv.vk.ru
 adv.yandex.com
 adv.yandex.ru
 advapi.joyplus.tv
@@ -178,6 +181,7 @@ advertisercommunity.com
 advertiserscommunity.com
 advertising.adobe.com
 advertising.apple.com
+advk.vk.ru
 adwords-community.com
 adwords.com
 adwordsexpress.com
@@ -626,7 +630,6 @@ qqdata.ab.qq.com
 questions-adv.ozon.ru
 qwapi.com
 r.mail.ru
-r.my.com
 r0.mail.ru
 r0.mradx.net
 r1.mail.ru
@@ -692,6 +695,7 @@ socdm.com
 spcode.baidu.com
 splash-ads.cdn.unity.cn
 splash-ads.unitychina.cn
+srch-telemeter10.g.smailru.net
 ssp.api.tappx.com
 stacks.vk-portal.net
 stat.chinaso.com
@@ -740,9 +744,6 @@ tracker.ai.xiaomi.com
 tracker.my.com
 tracker.xiaomixiaoai.com
 tracking.miui.com
-tracking.ocourier.ru
-tracking.ozon-dostavka.ru
-tracking.ozon.ru
 trafficfactory.biz
 tsyndicate.com
 tubemogul.com

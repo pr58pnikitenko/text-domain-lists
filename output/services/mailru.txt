@@ -3,6 +3,7 @@
 ad.mail.ru
 ad4.mail.ru
 adblogger.vk.com
+adblogger.vk.ru
 ads-integration.rustore.ru
 ads.dahlmessenger.com
 ads.icq.com
@@ -15,6 +16,9 @@ adsapp.dahlmessenger.com
 adsapp.stage.telega.info
 adsapp.telega.info
 adv.rustore.ru
+adv.vk.com
+adv.vk.ru
+advk.vk.ru
 algoritmika.org
 alt-r.my.com
 an.mail.ru
@@ -146,7 +150,6 @@ pixel.rustore.ru
 pixonic.com
 prod-my.games
 r.mail.ru
-r.my.com
 r0.mail.ru
 r0.mradx.net
 r1.mail.ru
@@ -172,6 +175,7 @@ skillbox.ru
 skillfactory.ru
 smailru.net
 sportmail.ru
+srch-telemeter10.g.smailru.net
 st-ok-pts.cdn-vk.ru
 st-ok.cdn-vk.ru
 stacks.vk-portal.net

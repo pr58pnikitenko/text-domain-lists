@@ -24,6 +24,7 @@ ad.mail.ru
 ad.ozone.ru
 ad4.mail.ru
 adblogger.vk.com
+adblogger.vk.ru
 adfox.ru
 adfox.yandex.ru
 adfstat.yandex.ru
@@ -51,6 +52,8 @@ adsapp.telega.info
 adsdk.yandex.ru
 adv.ozon.ru
 adv.rustore.ru
+adv.vk.com
+adv.vk.ru
 adv.yandex.com
 adv.yandex.ru
 advert-api-sandbox.wb.ru
@@ -59,6 +62,7 @@ advert-api.wb.ru
 advert-api.wildberries.ru
 advert-media-api.wb.ru
 advert-media-api.wildberries.ru
+advk.vk.ru
 agency-adv.ozon.ru
 alfabank.oavdo.amc
 alfabank.st
@@ -456,7 +460,6 @@ prodvizhenie-adv.ozon.ru
 pushgrow.io
 questions-adv.ozon.ru
 r.mail.ru
-r.my.com
 r0.mail.ru
 r0.mradx.net
 r1.mail.ru
@@ -540,6 +543,7 @@ smotreshka.tv
 sourcecraft.dev
 spasibo.digital
 spasibo.market
+srch-telemeter10.g.smailru.net
 srv-hub.org
 st-ok-pts.cdn-vk.ru
 st-ok.cdn-vk.ru
@@ -585,9 +589,6 @@ top-staging.mail.ru
 tracing-http.megamarket.tech
 tracker-api.my.com
 tracker.my.com
-tracking.ocourier.ru
-tracking.ozon-dostavka.ru
-tracking.ozon.ru
 transport.mos.ru
 trbcdn.net
 turbopages.org

@@ -24,6 +24,7 @@ apple-mapkit.com
 appleswift.com
 appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
+archlinux.de
 archlinux.org
 archlinuxarm.org
 archlinuxcn.org

@@ -1,6 +1,10 @@
 adblogger.vk.com
+adblogger.vk.ru
 ads.vk.com
 ads.vk.ru
+adv.vk.com
+adv.vk.ru
+advk.vk.ru
 analytics.vk.com
 analytics.vk.ru
 cdn-vk.net
