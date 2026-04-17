@@ -30,6 +30,7 @@ apiok.ru
 appsmail.ru
 apptracer.ru
 armgs.team
+attachmail.ru
 attachmy.com
 b2.mail.ru
 bargipsy.com
@@ -204,6 +205,7 @@ tracker-api.my.com
 tracker.my.com
 tusco.ru
 uchi.ru
+uma.media
 umschool.net
 userapi.com
 userapi.ru
@@ -259,6 +261,7 @@ vkuservideo.ru
 vkvideo.ru
 vmailru.net
 whiteline.mail.ru
+xmail.ru
 xn-----6kc7adj0c9esa.com
 xn----7sbaba0dc6cdn7cxcj.com
 xn----7sbabae2a0bnvtsfr4loc.com

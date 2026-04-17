@@ -112,6 +112,7 @@ ads.vk.com
 ads.vk.ru
 ads.wildberries.ru
 ads.wteam.xyz
+ads.x5.ru
 ads.x5media.ru
 ads.yahoo.com
 ads.yandex
@@ -275,7 +276,6 @@ biz.weibo.com
 bloodhound.spotify.com
 bluekai.com
 browser-intake-datadoghq.com
-browser-updater.yandex.net
 browser.events.data.msn.cn
 browser.events.data.msn.com
 bs.mail.ru
@@ -318,7 +318,6 @@ collector.github.com
 collector.xhamster.com
 contentabc.com
 copilot-telemetry.githubusercontent.com
-counter.yandex.net
 counter.yandex.ru
 cpro.baidu.com
 cpro.baidustatic.com
@@ -522,6 +521,9 @@ mediav.com
 metrics.21-school.ru
 metrics.duolingo.com
 metrics.viqeo.tv
+metrika.kontur.ru
+metrika.yandex.com
+metrika.yandex.net
 metrika.yandex.ru
 miao.baidu.com
 miaowu.baidu.com
@@ -611,10 +613,9 @@ pinggai7.caixin.com
 pinggai8.caixin.com
 pinggai9.caixin.com
 pingjs.qq.com
-pix.yandex.ru
 pixel.facebook.com
 pixel.rustore.ru
-pixel.yandex.net
+pixel.yandex.com
 pl.youku.com
 plbslog.umeng.com
 pmir.3g.qq.com
@@ -674,6 +675,7 @@ sentry.d.xiaomi.net
 sentry.dev-my.com
 sentry.dev-my.games
 sentry.hetzner.company
+sentry.kontur.host
 sentry.mindbox.ru
 sentry.music.163.com
 sentry.ozon.ru

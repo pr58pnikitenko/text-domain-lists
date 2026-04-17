@@ -1039,6 +1039,7 @@ offworldindustries.net
 ofiii.com
 okko.sport
 okko.tv
+okkoapi.tv
 olehd.com
 olelive.com
 olemovienews.com
@@ -1144,6 +1145,7 @@ prodforza.blob.core.windows.net
 product.co.jp
 productcard.gog-statics.com
 projectapex.com
+promodj.com
 protondb.com
 pscdn.co
 ptzwx.com

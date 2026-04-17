@@ -10,8 +10,8 @@
 2gis.kg
 2gis.kz
 2gis.ru
+2gis.tech
 2gis.tj
-2gis.ua
 2gis.uz
 accesspoint.uz
 ads.sber.ru
@@ -51,6 +51,7 @@ metrics.21-school.ru
 neon.click
 okko.sport
 okko.tv
+okkoapi.tv
 otello.ru
 payecom.ru
 platiecom.ru

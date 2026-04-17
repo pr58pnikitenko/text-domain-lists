@@ -11,8 +11,8 @@
 2gis.kg
 2gis.kz
 2gis.ru
+2gis.tech
 2gis.tj
-2gis.ua
 2gis.uz
 2w.ru
 4c.ru
@@ -122,6 +122,7 @@ gazprombank.ru
 gbank.com.mm
 getsynapse.io
 ghbi.ir
+gid.ru
 giga.chat
 gitverse.ru
 gosdolgi.ru
@@ -317,6 +318,7 @@ oitabank.co.jp
 okinawabank.co.jp
 okko.sport
 okko.tv
+okkoapi.tv
 otello.ru
 parsian-bank.com
 payecom.ru

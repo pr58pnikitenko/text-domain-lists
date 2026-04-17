@@ -17,7 +17,6 @@ appmetrica.yandex.net
 appmetrica.yandex.ru
 appmetrica.yango.com
 berizaryad.ru
-browser-updater.yandex.net
 bs.yandex.ru
 cabconnect.org
 clck.ru
@@ -26,7 +25,6 @@ clck.yandex.net
 clck.yandex.ru
 clck.yango.com
 clstorage.net
-counter.yandex.net
 counter.yandex.ru
 driveawaytaxi.org
 elama.ru
@@ -40,11 +38,12 @@ mc.yandex.net
 mc.yandex.ru
 mc.yango.com
 meteum.ai
+metrika.yandex.com
+metrika.yandex.net
 metrika.yandex.ru
 my-manager-account.com
 naydex.net
-pix.yandex.ru
-pixel.yandex.net
+pixel.yandex.com
 report.ap.yandex-net.ru
 rostaxi.org
 shedevrum.ai

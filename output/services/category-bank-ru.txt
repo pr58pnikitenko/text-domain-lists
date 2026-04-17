@@ -10,8 +10,8 @@
 2gis.kg
 2gis.kz
 2gis.ru
+2gis.tech
 2gis.tj
-2gis.ua
 2gis.uz
 2w.ru
 4c.ru
@@ -64,6 +64,7 @@ gazprombank.com
 gazprombank.investments
 gazprombank.ru
 getsynapse.io
+gid.ru
 giga.chat
 gitverse.ru
 gosdolgi.ru
@@ -109,6 +110,7 @@ myapelsin.ru
 neon.click
 okko.sport
 okko.tv
+okkoapi.tv
 otello.ru
 payecom.ru
 payment.ru
