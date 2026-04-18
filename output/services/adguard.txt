@@ -9,6 +9,7 @@ adguard.info
 adguard.io
 adguard.org
 adguardaccount.com
+adguardcdn.com
 adguardvpn.com
 adtidy.net
 adtidy.org
